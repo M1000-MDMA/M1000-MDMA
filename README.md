@@ -24,7 +24,11 @@
 
 <h3 align="left">💰Support:</h3>
 <p><a href="https://ko-fi.com/yungzsdomain"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yungzsdomain" /></a></p><br><br>
+<br><br>
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IzOCraioveanu) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YungzsDomain) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1000-mdma&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="m1000-mdma" /></p>
+<h3>✍️ Random Dev Quote: </h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1000-mdma&show_icons=true&theme=dark&locale=en&layout=compact" alt="m1000-mdma" /></p>
