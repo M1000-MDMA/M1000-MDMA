@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1000-mdma" alt="m1000-mdma" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Calendar**
+- 🎈 Im also looking for ideas as a personal project!**
 - 🌱 I’m currently learning **SWIFT**
 - 📫 How to reach me **nameiscatalin@gmail.com OR Discord server(SOON)**
 - ⚡ Fun fact **If it works, DON'T touch it.**
